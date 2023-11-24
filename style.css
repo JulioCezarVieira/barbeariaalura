@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategray;
+    background-color: gray;
     color: whitesmoke;
 }
 
@@ -16,7 +16,7 @@ p {
 
 em {
     text-align: center;
-    color: blueviolet;
+    color: darkblue;
 
 }
 img {
