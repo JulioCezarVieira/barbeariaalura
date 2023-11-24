@@ -3,6 +3,9 @@ body {
     color: whitesmoke;
 }
 
+p {
+    text-align: center;
+}
 .negrito {
     text-align: center;
     font-size: 20px;
