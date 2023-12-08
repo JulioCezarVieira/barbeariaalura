@@ -24,7 +24,6 @@ em {
 .beneficios {
     border-radius: 10px;
     width: 50%;
-    justify-items: right;
 }
 
 .principal {
@@ -40,4 +39,7 @@ em {
 
 ul {
     display: inline-block;
+    width: 20%;
+    margin-right: 15%;
+    vertical-align: top;
 }
