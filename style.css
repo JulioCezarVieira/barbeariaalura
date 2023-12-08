@@ -17,6 +17,12 @@ em {
 }
 
 .banner {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.beneficios {
+    border-radius: 10px;
     width: 100%;
 }
 
