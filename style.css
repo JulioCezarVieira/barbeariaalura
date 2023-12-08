@@ -24,6 +24,7 @@ em {
 .beneficios {
     border-radius: 10px;
     width: 50%;
+    justify-items: right;
 }
 
 .principal {
