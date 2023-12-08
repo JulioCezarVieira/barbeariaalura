@@ -32,3 +32,7 @@ em {
     padding: 30px;
     border-radius: 10px;
 }
+
+.tituloCentralizado {
+    text-align: center;
+}
